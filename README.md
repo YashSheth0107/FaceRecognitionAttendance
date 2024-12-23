@@ -2,7 +2,7 @@
 Face recognition-based smart attendance system with web app using machine learning.
 
 Libraries:
-from sklearn.neighbors import KNeighborsClassifier
+- from sklearn.neighbors import KNeighborsClassifier
 - import cv2
 - import pickle
 - import numpy as np
